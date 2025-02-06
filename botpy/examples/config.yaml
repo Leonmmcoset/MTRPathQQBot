@@ -1,0 +1,6 @@
+#机器人配置
+appid: ""
+secret: ""
+
+# 图床配置
+picturesToken: ""
